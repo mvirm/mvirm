@@ -8,9 +8,7 @@
 
  Soy Full Stack Developer, de Buenos Aires, Argentina; con background en diseño y producción en importantes empresas del rubro textil. Esta actividad me ayudó a desarrollarme como una persona responsable, capaz, dinámica y proactiva, con manejo de la estética y muy buenas relaciones interpersonales. También destaco el manejo de grupos hacia objetivos definidos con excelentes resultados como así también conocimientos de diseño y calidad, amplio manejo de  herramientas graficas y conceptuales del diseño, como ser la morfología, composición, teoria y uso del color y los aspectos comunicacionales; especializaciones adquiridas en mi vasta carrera docente.
 
-Me especializo en Front-end con conocimientos en metodologías ágiles (SCRUM) como así también en GIT, estructura de datos, algoritmos y frameworks CSS (Bootstrap).
-
-Tengo experiencia en desarrollo de Front End y Back End/arquitectura de datos con HTML, Javascript, React JS, Redux, Node JS, Express, PostgreSQL, Jest (Unit testing) con enfoque en la resolución de problemas, pensamiento analítico y adaptabilidad ante los distintos escenarios que pueden surgir durante el desarrollo de proyectos.
+Tengo experiencia en desarrollo de Front End y Back End  con conocimientos en metodologías ágiles (SCRUM) como así también en GIT, estructura de datos, algoritmos y frameworks CSS como Boostrap, además de HTML, CSS, Javascript, React JS, Redux, Node JS, Express, PostgreSQL, Sequealize, Jest (Unit testing) con enfoque en la resolución de problemas, pensamiento analítico y adaptabilidad ante los distintos escenarios que pueden surgir durante el desarrollo de proyectos.
 
 <br/>
 
