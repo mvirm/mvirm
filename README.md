@@ -1,14 +1,21 @@
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://media.licdn.com/dms/image/D4D16AQH0ClLFF0gd-w/profile-displaybackgroundimage-shrink_350_1400/0/1687626229035?e=1717027200&v=beta&t=RzS9zz_nG3zGOE2_6qbiA66X2ASDE0oYKWZymHEf1jY"
+       alt="pc + cafe" /></a>
 </div>
 
 ### <div align="center">console.log('Hola Mundo!👋')</div> 
 <br/>
+Soy Vir, de Buenos Aires, Argentina; FullStack Web Developer  👩‍💻con una especialización orientada hacia el FrontEnd y actualmente me encuentro aprendiendo nociones básicas de UX/UI para ampliar mis habilidades.
 
- Soy Vir, Full Stack Developer, de Buenos Aires, Argentina; con background en diseño y producción en importantes empresas del rubro textil. Esta actividad me ayudó a desarrollarme como una persona responsable, capaz, dinámica y proactiva, con manejo de la estética y muy buenas relaciones interpersonales. También destaco el manejo de grupos hacia objetivos definidos con excelentes resultados como así también conocimientos de diseño y calidad, amplio manejo de  herramientas graficas y conceptuales del diseño, como ser la morfología, composición, teoria y uso del color y los aspectos comunicacionales; especializaciones adquiridas en mi vasta carrera docente.
+Mi experiencia en diseño y producción en empresas textiles líderes me ha enseñado valores como la responsabilidad y la capacidad de adaptación; además de una sólida habilidad para las relaciones interpersonales, basada en la cordialidad y empatía, mientras que mi capacidad para liderar equipos hacia metas claras ha sido fundamental para obtener resultados sobresalientes 😉.
 
-Tengo experiencia en desarrollo de Front End y Back End  con conocimientos en metodologías ágiles (SCRUM) como así también en GIT, estructura de datos, algoritmos y frameworks CSS como Boostrap, MUI y TailwindCSS; además de HTML, CSS, Javascript, React JS, Redux, Node JS, Express, PostgreSQL, Sequealize, Jest (Unit testing) con enfoque en la resolución de problemas, pensamiento analítico y adaptabilidad ante los distintos escenarios que pueden surgir durante el desarrollo de proyectos.
+En el ámbito del desarrollo web, me desenvuelvo en el FrontEnd y BackEnd, utilizando metodologías ágiles como SCRUM y herramientas como GIT. Mi conjunto de habilidades técnicas es sólido e incluye el  dominio de HTML, CSS, JavaScript, React JS, Redux, Node JS, Express, PostgreSQL, Sequelize y Jest para pruebas unitarias. Además, tengo experiencia en el uso de frameworks CSS como Boostrap, TailwindCSS y MaterialUI🚀
+
+Estoy comprometida en mejorar constantemente💪por lo que,  en este momento, estoy trabajando en fortalecer mi nivel de inglés, para subir de nivel intermedio B1 a avanzado ✅️.
+
+Soy una persona resiliente, capaz de encontrar lo positivo en situaciones adversas. Disfruto aprender y mejorar continuamente, ya que los desafíos me motivan. Mi enfoque se centra en resolver problemas de manera efectiva, respaldado por un pensamiento analítico y una gran adaptabilidad ante los distintos escenarios que puedan surgir durante el desarrollo de proyectos.
+
+¡Estoy lista para enfrentar nuevos desafíos👏👏👏!
 
 <br/>
 
