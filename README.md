@@ -1,5 +1,5 @@
 <div align="center">
-  <img  src="[https://media.licdn.com/dms/image/D4D16AQH0ClLFF0gd-w/profile-displaybackgroundimage-shrink_350_1400/0/1687626229035?e=1717027200&v=beta&t=RzS9zz_nG3zGOE2_6qbiA66X2ASDE0oYKWZymHEf1jY](https://media.licdn.com/dms/image/v2/D4D16AQH0ClLFF0gd-w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1687626229035?e=1754524800&v=beta&t=ho7qLLev9hlm7TUznX9S8Ykd35na3hT-SR53CJlDzR8)"
+  <img  src="https://media.licdn.com/dms/image/v2/D4D16AQH0ClLFF0gd-w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1687626229035?e=1754524800&v=beta&t=ho7qLLev9hlm7TUznX9S8Ykd35na3hT-SR53CJlDzR8"
        alt="pc + cafe" /></a>
 </div>
 
